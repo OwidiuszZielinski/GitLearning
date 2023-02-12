@@ -13,4 +13,9 @@ git branch -a all branches
 
 git revert
 
-resety mamy hard and soft 
+resety mamy hard and soft
+
+1. Jesli wprowadzona zostanie jakas zmiana na masterze zdalnie to przed pushem musze zrobic git fetch ? czy git pull?
+Zrobilem git pull przed komitem i mi pobralo plik ktory wrzucilem na zdalne
+
+Teraz mozna zrobic git push to po co fetch ?
