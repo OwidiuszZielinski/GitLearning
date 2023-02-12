@@ -19,3 +19,7 @@ resety mamy hard and soft
 Zrobilem git pull przed komitem i mi pobralo plik ktory wrzucilem na zdalne
 
 Teraz mozna zrobic git push to po co fetch ?
+
+Git fetch nie pobralo tego pliku i nie wyswietlilo mozliwosci rozwiazania problemu??
+
+git fetch --all nie dorzuca pliku z repo a definicja to "git fetch: Downloads changes from a remote repository."
