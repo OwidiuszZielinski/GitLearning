@@ -1,0 +1,16 @@
+1.Usuwanie z poczekalni git reset HEAD
+2.Rozwiazywanie konfliktu
+3.Rebase to scalanie commitow
+4.Powracanie do stanu z danego comita i przejscie do aktualnej galezi
+
+taki blad mialem
+
+error: Your local changes to the following files would be overwritten by merge sqlite sample.db
+
+git stash ?
+
+git branch -a all branches
+
+git revert
+
+resety mamy hard and soft 
